@@ -1,0 +1,62 @@
+.cart{
+width: 24px;
+height: 24px;
+}
+
+.li-1{    
+width: 46px;
+height: 24px;
+color: rgba(37, 36, 50, 1);
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+}
+.li-2{    
+width: 39px;
+height: 24px;
+color: rgba(137, 135, 161, 1);
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+}
+.li-3{    
+width: 73px;
+height: 24px;
+color: rgba(137, 135, 161, 1);
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+}
+.li-4{    
+width: 79px;
+height: 24px;
+color: rgba(0, 0, 0, 1);
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+}
+body{
+background: rgba(245, 248, 255, 1);
+}
+
+.banner-h-1{
+font-family: Noto Serif;
+
+font-weight: 600;
+}
+
+.banner-h-1 span{
+color: rgba(233, 90, 8, 1);
+}
+
+.banner-h-2{
+color: rgba(233, 90, 8, 1);
+font-family: Noto Serif;
+font-weight: 600;
+}
+
+.banner-p{
+color: rgba(0, 0, 0, 0.5);
+font-family: Inter;
+font-weight: 400;
+}

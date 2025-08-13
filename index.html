@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Flower Shop</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="max-w-[1440px] mx-auto ">
+    <header>
+        <nav class="flex justify-between sm:gap-[185px]">
+            <div class="logo">
+                <img class=" mt-[13px] ml-[16px] w-[63px] h-[38px] lg:w-[135px] lg:h-[82px] lg:mt-[25px] lg:ml-[150px]" src="assets/logo.png" alt="">
+            </div>
+            <div class="container-1 mt-[26px] mr-[16px] lg:flex lg:gap-[48px] lg:w-[415px] lg:h-[25px] lg:mt-[65.5px] lg:mr-[150px]">
+                <div class="list hidden lg:block">
+                <ul class="flex gap-[48px]">
+                    <li class="li-1 "><a href="">Home</a></li>
+                    <li class="li-2 "><a href="">Shop</a></li>
+                    <li class="li-3 "><a href="">About us</a></li>
+                </ul>
+            </div>
+                <div class="cart-icon flex gap-[8px]">
+                    <img class="cart " src="assets/cart-shopping-solid-full.svg" alt="">
+                    <ul>
+                        <li class="li-4"><a href="">Cart($56)</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+        </nav>
+
+        <section class="banner flex flex-col lg:flex lg:flex-row  lg:w-[1140px] lg:h-[461px] lg:mt-[120px] lg:mr-[150px] lg:ml-[150px]">
+            <div class="banner-div-1 ml-[16px] w-[570px] h-[300px] order-2 lg:order-1">
+                <h3 class="banner-h-1 w-[191px] h-[33px] text-[24px]  mt-[28px]  lg:w-[517px] lg:h-[89px] lg:mt-[67px] lg:text-[65px]">ALWAYS <span>FRESH</span></h3>
+                <h3 class="banner-h-2 w-[122px] h-[33px] text-[24px] lg:w-[329px] lg:h-[89px] lg:text-[65px]">FLOWERS</h3>
+                <p class="banner-p w-[360px] h-[68px] text-[14px] lg:w-[570px] lg:h-[108px] lg:mt-[15px] lg:text-[22px]">Indulge your senses with the beauty and fragrance of our fresh flower shop. From classic roses to exotic blooms, we offer a wide variety of fresh flowers that are perfect for any occasion. </p>
+            </div>
+            <div class="banner-div-2 w-full h-[245px]  lg:w-[570px] lg:h-[355px]  order-1 lg:order-2">
+                <img class="" src="assets/hero-flower.png" alt="">
+            </div>
+        </section>
+    </header>
+    
+</body>
+</html>
