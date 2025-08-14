@@ -98,3 +98,19 @@ color: rgba(255, 255, 255, 1);
 font-family: Inter;
 font-weight: 400;
 }
+
+
+.fs-h3{
+color: rgba(0, 0, 0, 1);
+font-family: Noto Serif;
+font-weight: 600;
+}
+
+.fs-p{
+color: rgba(0, 0, 0, 0.5);
+font-family: Inter;
+font-weight: 400;
+}
+
+
+
