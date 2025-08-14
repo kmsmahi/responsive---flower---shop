@@ -60,3 +60,41 @@ color: rgba(0, 0, 0, 0.5);
 font-family: Inter;
 font-weight: 400;
 }
+
+.main-sec-1-h{
+font-family: Noto Serif;
+font-weight: 600;
+text-align: center;
+}
+.main-sec-1-h span{
+color: rgba(233, 90, 8, 1);
+}
+
+.main-sec-1-p{
+color: rgba(0, 0, 0, 0.5);
+font-family: Inter;
+font-weight: 400;
+text-align: center;
+}
+
+.card-1-h3{
+color: rgba(17, 17, 17, 1);
+font-family: Inter;
+font-weight: 500;
+}
+
+.card-1-h4{
+color: rgba(17, 17, 17, 1);
+font-family: Inter;
+font-weight: 600;
+}
+
+.btn-1{
+background: rgba(233, 90, 8, 1);
+}
+
+.btn-1 span{
+color: rgba(255, 255, 255, 1);
+font-family: Inter;
+font-weight: 400;
+}
