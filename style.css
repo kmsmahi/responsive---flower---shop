@@ -37,6 +37,8 @@ font-weight: 400;
 }
 body{
 background: rgba(245, 248, 255, 1);
+ margin: 0;
+padding: 0;
 }
 
 .banner-h-1{
@@ -156,3 +158,19 @@ font-family: Inter;
 font-weight: 400;
 
  }
+
+ .join-branch-h3{
+color: rgba(255, 255, 255, 1);
+font-family: Noto Serif;
+font-weight: 600;
+ }
+.sub-btn{
+background: rgb(255, 144, 14);
+border: none;
+}
+
+.sub-btn span{
+font-family: Inter;
+font-weight: 400;
+color: rgba(255, 255, 255, 1);
+}
