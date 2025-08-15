@@ -174,3 +174,23 @@ font-family: Inter;
 font-weight: 400;
 color: rgba(255, 255, 255, 1);
 }
+
+.foot{
+box-sizing: border-box;
+border-top: 1px solid rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(18px);
+background: rgba(255, 255, 255, 0.5);
+}
+
+.foot-sec-1-p{
+color: rgba(0, 0, 0, 0.5);
+font-family: Inter;
+font-weight: 400;
+}
+
+.foot-sec-2{
+color: rgba(107, 114, 128, 1);
+}
+.foot-sec-3{
+color: rgba(107, 114, 128, 1);
+}
