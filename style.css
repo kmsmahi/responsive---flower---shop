@@ -114,3 +114,45 @@ font-weight: 400;
 
 
 
+ /* bg-[url('./assets/deal-bloom.png')] bg-cover bg-center 
+ bg-[url('./assets/deal-ana.png')] bg-cover bg-center 
+ bg-[url('./assets/deal-zabo.png')] bg-cover bg-center  */
+
+
+
+ .bg-1-h3{
+color: rgba(255, 255, 255, 1);
+font-family: Noto Serif;
+font-weight: 600;
+text-align: center;
+ }
+ .bg-2-h3{
+color: rgba(255, 255, 255, 1);
+font-family: Noto Serif;
+font-weight: 600;
+text-align: center;
+ }
+ .bg-3-h3{
+color: rgba(255, 255, 255, 1);
+font-family: Noto Serif;
+font-weight: 600;
+text-align: center;
+ }
+ .bg-1-h5{
+color: rgba(255, 255, 255, 1);
+font-family: Inter;
+font-weight: 400;
+text-align: left;
+ }
+ .bg-2-h5{
+color: rgba(255, 255, 255, 1);
+font-family: Inter;
+font-weight: 400;
+text-align: left;
+ }
+ .bg-3-h5{
+color: rgba(255, 255, 255, 1);
+font-family: Inter;
+font-weight: 400;
+text-align: left;
+ }
